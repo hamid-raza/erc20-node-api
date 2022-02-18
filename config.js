@@ -8,9 +8,9 @@ module.exports = {
             chains: { mainnet: 1, ropsten: 3, rinkeby: 4, goerly: 5, kovan: 42,}
         },
         test_eth: {
-            chainId: 42,
+            chainId: 3,
             network: 'testnet',
-            provider: "https://kovan.infura.io/v3/72c53bc23c234df3a80f4e2c95f72d81",
+            provider: "https://ropsten.infura.io/v3/72c53bc23c234df3a80f4e2c95f72d81",
             chains: { mainnet: 1, ropsten: 3, rinkeby: 4, goerly: 5, kovan: 42,}
         },
         btc: {
